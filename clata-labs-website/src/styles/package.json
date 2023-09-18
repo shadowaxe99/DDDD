@@ -1,0 +1,11 @@
+{
+  "name": "clata-labs-website",
+  "version": "1.0.0",
+  "description": "Styles for Clata Labs website",
+  "main": "global.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}

@@ -1,0 +1,29 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello", "Hey"],
+      "responses": ["Hello!", "Hi there!", "Hey! How can I assist you today?"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "Goodbye", "See you later"],
+      "responses": ["Goodbye!", "See you later!", "Take care!"]
+    },
+    {
+      "tag": "thankyou",
+      "patterns": ["Thank you", "Thanks", "Appreciate it"],
+      "responses": ["You're welcome!", "No problem!", "Glad I could help!"]
+    },
+    {
+      "tag": "calendar",
+      "patterns": ["What's on my calendar?", "Do I have any meetings today?", "Show me my schedule"],
+      "responses": ["Let me check your calendar.", "Checking your schedule.", "Here are your upcoming events."]
+    },
+    {
+      "tag": "email",
+      "patterns": ["Read my emails", "Check my inbox", "Any new messages?"],
+      "responses": ["Let me fetch your emails.", "Checking your inbox.", "Here are your latest emails."]
+    }
+  ]
+}

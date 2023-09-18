@@ -1,0 +1,31 @@
+# This is the code for the file "Clara_Labs_AI_Executive_Assistant/tests/requirements.txt"
+
+# Required packages for running tests
+pytest
+pytest-django
+pytest-cov
+mock
+
+# Required packages for testing Django models and views
+django
+django-environ
+django-extensions
+django-nose
+
+# Required packages for testing Natural Language Processing
+nltk
+
+# Required packages for testing Speech Recognition
+SpeechRecognition
+
+# Required packages for testing Google Calendar API
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+
+# Required packages for testing Gmail API
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client

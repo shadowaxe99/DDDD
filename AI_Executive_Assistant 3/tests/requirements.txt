@@ -1,0 +1,8 @@
+# AI_Executive_Assistant/tests/requirements.txt
+
+pytest
+mock
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+zoomus
